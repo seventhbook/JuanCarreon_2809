@@ -17,4 +17,5 @@ Tomando en cuenta que queremos realizar un centro de cómputo propio:
 2. Debemos administrar el espacio dejando espacio correspondiente para su manejo, operación y mantenimiento posterior para los equipos de cómputo.
 3. Tenemos que contar con fuentes alternas de electricidad, por si llega a caer el servicio electrico, no perder el trabajo y poder continuar.
 4. Debemos analizar los requerimentos de nuestro centro, para asi poder contratar los servicios necesarios para su funcionamiento optimo, en este caso un buen internet con gran ancho de banda es esencial.
- 
+
+Ademas debemos tener en cuenta el capital disponible para nuestro centro de computo ya que debemos priorizar lo que sea mas importante, ejemplo una fuente de energia de respaldo puede ser mas esencial que un gran ancho de banda, dependiendo de las actividades del centro de cómputo.4
