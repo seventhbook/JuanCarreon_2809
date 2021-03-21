@@ -2,7 +2,7 @@
 ## Organización
 La orgnanización es el acto de disponer y coordinar los recursos disponibles (materiales, humanos y financieros).
 
-## Organización de un Centro de Computo
+## Organización de un Centro de Cómputo
 La organización  de  los centro de cómputo es la aplicación de un conjunto de técnicas conducentes para obtener una empresa estructurada en forma tal, que con la correspondiente división de actividades y la debida coordinación de éstas, se obtenga la máxima rentabilidad.
  
 **Los Cuatro Elementos Criticos para la correcta organizacion de un Centro de Cómputo:**
