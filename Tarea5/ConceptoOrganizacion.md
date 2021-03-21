@@ -1,4 +1,4 @@
-# Concepto de Organización de Centros de Computo
+# Concepto de Organización de Centros de Cómputo
 ## Organización
 La orgnanización es el acto de disponer y coordinar los recursos disponibles (materiales, humanos y financieros).
 
