@@ -6,10 +6,10 @@ La orgnanización es el acto de disponer y coordinar los recursos disponibles (m
 La organización  de  los centro de cómputo es la aplicación de un conjunto de técnicas conducentes para obtener una empresa estructurada en forma tal, que con la correspondiente división de actividades y la debida coordinación de éstas, se obtenga la máxima rentabilidad.
  
 **Los Cuatro Elementos Criticos para la correcta organizacion de un Centro de Cómputo:**
-**Espacio:** Se debe tener espacio suficiente para los equipos de computo, asi como su operación y mantenimiento.
-**Energia:** Se debe contar con la cantidad suficiente de energía electrica para satisfacer la demanda de energía de los equipos, así como con el suministro suficiente de respaldos eléctricos necesarios para garantizar su operación.
-**Aire Acondicionado:** Se debe contar con la refrigeración necesaria para mantener el equipo en dondiciones óptimas de operación.
-**Ancho de Banda:** El Centro de Cómputo debe contar con servicios de banda ancha para poder operar adecuadamente.
++ **Espacio:** Se debe tener espacio suficiente para los equipos de computo, asi como su operación y mantenimiento.
++ **Energia:** Se debe contar con la cantidad suficiente de energía electrica para satisfacer la demanda de energía de los equipos, así como con el suministro suficiente de respaldos eléctricos necesarios para garantizar su operación.
++ **Aire Acondicionado:** Se debe contar con la refrigeración necesaria para mantener el equipo en dondiciones óptimas de operación.
++ **Ancho de Banda:** El Centro de Cómputo debe contar con servicios de banda ancha para poder operar adecuadamente.
 
 ### Ejemplo
 Tomando en cuenta que queremos realizar un centro de cómputo propio:
