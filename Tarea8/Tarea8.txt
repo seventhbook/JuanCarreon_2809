@@ -1,0 +1,43 @@
+Tarea 8.- Ejemplifica 5 formas de operar un centro de cómputo.
+
+1.-Ejecutar los procesos asignados conforme a los programas de producción
+y calendarizacion preestablecidos, dejando el registro correspondiente en las 
+solicitudes de proceso.
+Ejemplo: Un ejemplo de esto es que se esperan fechas que los departamentos 
+de la empresa esten menos ocupados para poder realizar servicios de
+mantenimiento, o se busca realizar los respaldos o cambios al software en las
+madrugadas, para evitar problemas con usuarios activos.
+
+2.-Operar el sistema de computacion central y mantener el sistema disponible
+para los usuarios.
+Ejemplo: El encargado de red de una empresa debe estar pendiente de los cortes
+de red de en algunos departamentos o la red en su totalidad, y debe resolver
+problemas que se presenten para dejar disponible la red para los usuarios, o 
+agregar usuarios.
+
+3.-Revisar los resultados de los procesos e incorporar acciones correctivas
+conforme a instrucciones de su superior inmediato.
+Ejemplo: Al terminar cambios en un proyecto de software, al realizar los tests o 
+pruebas, debemos revisar los resultados enlistarlos y despues notificarlos al 
+jefe inmediato, ademas de opciones correctivas posibles.
+
+4.-Realizar las copias de respaldo (back-up) de la información y procesos de cómputo
+que se realizan en la Dirección, conforme a parametros preestablecidos.
+Ejemplo:Dentro de un banco se debe realizar backups de la información de las
+cuentas de los clientes y su información, muy seguido, ya que se esta manejando
+un flujo de efectivo y puede haber un movimiento en cualquier momento, 
+por esto debe estar claramente definido el timepo en que se hacen los backups 
+y la forma en que se hacen, ya que tampoco es lo mismo realizar un respaldo en
+el mismos centro de datos, que dividirlo en varios centros de datos, ya que esto
+tambien genera costos extras, pero mejora la accesibilidad a los datos, si en algun 
+momento cae un centro de datos, o hay ataques.
+
+5.-Llevar registros de fallas, probelemas, soluciones, acciones desarrolladas,
+respaldos, recuperaciones y trabajos realizados.
+Ejemplo: Un ejemplo de esto puede ser en el manejo de las bases de datos de una
+empresa, cada alta, baja o respaldo de la informacion debe ser registrado, ya que
+si llega a faltar algun registro o haber una corrupcion de los datos, debe saberse 
+cual fue el ultimo movimiento antes de las fallas, quien accedio y en que momento
+fue, ya que puede recuperarse un respaldo anterior a solo ese momento, en ves de
+recuperar todo a estas iniciales, ademas de que se sabra directamente que acción
+se realiza y no debera revisarse todos los procesos y acciones que toquen a las bases.
